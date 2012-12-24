@@ -1,0 +1,76 @@
+\chapter{\sc Analyse du Système Github}
+
+\section{Présentation de Github}
+Lancé en février 2008, Github est un service web d'hébergement et de
+gestion de développement de logiciels. Il propose une gestion de
+versions collaborative. Le site utilise un logiciel de gestion de
+version décentralisé, il s'agit de \textbf{Git}. Github propose des
+comptes professionnels payants mais aussi des comptes gratuits pour
+les projets Open Source. Une inscription est requise pour profiter
+des services qu'offre ce site. En plus de l'hébergement de projets
+sous Git, Github fournit également des fonctionnalités de type
+réseaux sociaux comme le suivi de personnes ou de projets, graphes
+de réseaux pour les dépôts\dots  Le site dispose aussi d'un
+\textbf{pastebin} appelé Gist. Un pastebin est une application web
+qui permet aux utilisateurs de télécharger des exemples de code
+source pour un affichage public. Github propose à ses utilisateurs
+un Wiki est une page web pour chaque dépôt. Aujourd'hui, le site est
+utilisé par plus de \textbf{deux millions} de développeurs dans le
+monde. Plusieurs grands projets utilisent Github, on peut en citer :
+\textbf{Facebook}, \textbf{JUnit} ou encore \textbf{Python}.
+\section{Modèle des Besoins}
+\subsection{\textbf{Modèle des Spécifications}}
+Les Spécifications formelles du système Github peuvent être résumer
+dans la liste qui suit:\\
+\begin{enumerate}
+  \item Le système doit permettre à l'internaute de s'inscrire.
+  \item Le système doit permettre à l'utilisateur de s'authentifier.
+  \item Le système doit permettre à l'utilisateur de modifier son compte.
+  \item Le système doit proposer une offre gratuite à l'utilisateur.
+  \item Le système doit proposer une offre professionnelle payante à l'utilisateur.
+  \item Le système doit permettre à l'utilisateur de créer un profil.
+  \item Le système doit permettre à l'utilisateur de modifier son profil.
+  \item Le système doit permettre à l'utilisateur de créer une organisation.
+  \item Le système doit permettre à l'utilisateur de configurer son compte.
+  \item Le système doit permettre à l'utilisateur de changer son compte en un compte d'organisation.
+  \item Le système doit permettre à l'utilisateur de créer son propre projet.
+  \item Le système doit permettre à l'utilisateur de publier son propre projet.
+  \item Le système doit permettre à l'utilisateur d'ajouter des collaborateurs (utilisateurs) à son projet.
+  \item Le système doit permettre à l'utilisateur d'enregistrer des applications.
+  \item Le système doit permettre à l'utilisateur de créer un dépôt.
+  \item Le système doit permettre à l'utilisateur de visualiser tous les projets.
+  \item Le système doit proposer à l'utilisateur un ensemble d'outils de suivi de projets.
+  \item Le système doit permettre à l'utilisateur de rechercher un projet.
+  \item Le système doit permettre à l'utilisateur de rechercher une organisation.
+  \item Le système doit permettre à l'utilisateur de consulter l'historique de projet.
+  \item Le système doit permettre à l'utilisateur de créer des pages Wiki.
+  \item Le système doit permettre à l'utilisateur de télécharger tous les fichiers sources d'un projet.
+  \item Le système doit permettre à l'utilisateur de télécharger l'historique  de toutes les modifications.
+  \item Le système doit permettre à l'utilisateur d'afficher la liste de fichiers et les dernières modifications.
+  \item Le système doit permettre à l'utilisateur de faire des commits.
+  \item Le système doit permettre à l'utilisateur de configurer une clé SSH.
+  \item Le système doit permettre à l'utilisateur de consulter le forum de développeurs.
+  \item Le système doit permettre à l'utilisateur de consulter les notifications.
+  \item Le système doit permettre à l'utilisateur d'envoyer un message à un utilisateur.
+  \item Le système doit permettre à l'utilisateur de répondre à un message.
+  \item Le système doit permettre à l'utilisateur de suivre un développeur ou une organisation.
+  \item Le système doit proposer un simple guide d'utilisation à l'utilisateur.
+  \item Le système doit permettre à l'utilisateur de télécharger les dernières versions pour chaque plateforme.
+  \item Le système doit permettre à l'utilisateur d'ajouter une description sur lui.
+  \item Le système doit permettre à l'utilisateur de contacter l'administrateur.
+  \item Le système doit permettre à l'utilisateur de naviguer entre les meilleurs proposés.
+  \item Le system doit permettre à l'utilisateur de consulter les tarifs.
+  \item Le système doit proposer à l'utilisateur les meilleurs plans à choisir selon le nombre de projets créés.
+  \item Le système doit proposer à l'utilisateur des graphes de l'evolution des projets.
+\end{enumerate}
+\subsection{\textbf{Modèle des Cas d'Utilisation}}
+\subsubsection{Diagrammes de cas d'utilisation}
+\subsubsection{Documentation des cas d'utilisation}
+\section{Modèle d'Analyse}
+\subsection{\textbf{Vocabulaire}}
+\subsubsection{Diagrammes de classes}
+\subsubsection{Diagrammes d'objets}
+\subsection{\textbf{Interactions}}
+\subsubsection{Diagrammes de séquences}
+\subsubsection{Diagrammes d'activité}
+\subsubsection{Diagramme d'états-transition}

@@ -1,0 +1,22 @@
+\BOOKMARK [0][-]{Doc-Start}{Table des mati\350res}{}% 1
+\BOOKMARK [0][-]{Doc-Start}{Introduction G\351n\351rale}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Analyse du Syst\350me Github}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Pr\351sentation de Github}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Mod\350le des Besoins}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Mod\350le des Sp\351cifications}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Mod\350le des Cas d'Utilisation}{section.1.2}% 7
+\BOOKMARK [3][-]{section*.1}{Diagrammes de cas d'utilisation}{subsection.1.2.2}% 8
+\BOOKMARK [3][-]{section*.2}{Documentation des cas d'utilisation}{subsection.1.2.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Mod\350le d'Analyse}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{Vocabulaire}{section.1.3}% 11
+\BOOKMARK [3][-]{section*.3}{Diagrammes de classes}{subsection.1.3.1}% 12
+\BOOKMARK [3][-]{section*.4}{Diagrammes d'objets}{subsection.1.3.1}% 13
+\BOOKMARK [2][-]{subsection.1.3.2}{Interactions}{section.1.3}% 14
+\BOOKMARK [3][-]{section*.5}{Diagrammes de s\351quences}{subsection.1.3.2}% 15
+\BOOKMARK [3][-]{section*.6}{Diagrammes d'activit\351}{subsection.1.3.2}% 16
+\BOOKMARK [3][-]{section*.7}{Diagramme d'\351tats-transition}{subsection.1.3.2}% 17
+\BOOKMARK [0][-]{chapter.2}{Architecture du Syst\350me}{}% 18
+\BOOKMARK [1][-]{section.2.1}{Choix de l'Architecture}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.2}{Impl\351mentation d'un Prototype du Syst\350me}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Prises d'\351crans}{chapter.2}% 21
+\BOOKMARK [0][-]{section.2.3}{Conclusion G\351n\351rale}{}% 22

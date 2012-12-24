@@ -1,0 +1,23 @@
+\select@language {french}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Table des mati\`eres}{i}{Doc-Start}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Introduction G\'en\'erale}{1}{Doc-Start}
+\contentsline {chapter}{\numberline {1}\sc Analyse du Syst\`eme Github}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Pr\'esentation de Github}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Mod\`ele des Besoins}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}\textbf {Mod\`ele des Sp\'ecifications}}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}\textbf {Mod\`ele des Cas d'Utilisation}}{4}{subsection.1.2.2}
+\contentsline {subsubsection}{Diagrammes de cas d'utilisation}{4}{section*.1}
+\contentsline {subsubsection}{Documentation des cas d'utilisation}{4}{section*.2}
+\contentsline {section}{\numberline {1.3}Mod\`ele d'Analyse}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}\textbf {Vocabulaire}}{4}{subsection.1.3.1}
+\contentsline {subsubsection}{Diagrammes de classes}{4}{section*.3}
+\contentsline {subsubsection}{Diagrammes d'objets}{4}{section*.4}
+\contentsline {subsection}{\numberline {1.3.2}\textbf {Interactions}}{4}{subsection.1.3.2}
+\contentsline {subsubsection}{Diagrammes de s\'equences}{4}{section*.5}
+\contentsline {subsubsection}{Diagrammes d'activit\'e}{4}{section*.6}
+\contentsline {subsubsection}{Diagramme d'\'etats-transition}{4}{section*.7}
+\contentsline {chapter}{\numberline {2}\sc Architecture du Syst\`eme}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Choix de l'Architecture}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Impl\'ementation d'un Prototype du Syst\`eme}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Prises d'\'ecrans}{5}{section.2.3}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Conclusion G\'en\'erale}{6}{section.2.3}
